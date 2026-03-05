@@ -28,8 +28,6 @@ The existing test suite can be used as regression tests. Whenever the code is up
 
 ## Test Results Summary
 
-
-PS C:\Users\pelin\Projects\swe-testing-assignment> pytest
 ===================== test session starts =====================
 platform win32 -- Python 3.10.11, pytest-9.0.2, pluggy-1.6.0
 rootdir: C:\Users\pelin\Projects\swe-testing-assignment
